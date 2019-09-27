@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-$ heroku buildpacks:set heroku/python
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
