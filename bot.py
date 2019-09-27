@@ -101,9 +101,9 @@ Cmid = kc.getProfile().mid
 Dmid = kg.getProfile().mid
 Bots = [mid,Amid,Bmid,Cmid,Dmid]
 #nyalain bot dulu baru ketik "Ar Yid buat ngedapetin MID akun line mu"
-admin = ["MID_ADMIN"]
-staff = ["MID_ADMIN"]
-adminMID = "MID_ADMIN"
+admin = ["U1afa490979eb023cf3ed0db8c233f61e"]
+staff = ["U1afa490979eb023cf3ed0db8c233f61e"]
+adminMID = "U1afa490979eb023cf3ed0db8c233f61e"
 wait = {
     'contact':True,
     'autoJoin':True,
