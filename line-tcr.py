@@ -82,8 +82,8 @@ Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,"u5d4464430b4f6e405090cb63c34f471e"]
-admin=["u5d4464430b4f6e405090cb63c34f471e"]
+Bots=[mid,Amid,Bmid,Cmid,"U1afa490979eb023cf3ed0db8c233f61e"]
+admin=["U1afa490979eb023cf3ed0db8c233f61e"]
 wait = {
     'contact':True,
     'autoJoin':True,
